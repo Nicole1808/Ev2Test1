@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PulpiLand</string>
+    <string name="app_email">Ingrese correo</string>
+    <string name="app_pass1">Ingrese contraseña</string>
+    <string name="app_pass2">Repita contraseña</string>
+    <string name="app_login">Ingresar</string>
+    <string name="app_back">Volver</string>
+    <string name="app_crear">Crear</string>
+    <string name="app_nick">Ingrese nombre de usuario</string>
+    <string name="Tittle">Titulo</string>
+
+</resources>
